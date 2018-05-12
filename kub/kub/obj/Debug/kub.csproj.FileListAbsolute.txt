@@ -1,0 +1,20 @@
+C:\Users\Юлия\source\repos\kub\kub\obj\Debug\kub.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\source\repos\kub\kub\obj\Debug\kub.Form1.resources
+C:\Users\Юлия\source\repos\kub\kub\obj\Debug\kub.Properties.Resources.resources
+C:\Users\Юлия\source\repos\kub\kub\obj\Debug\kub.csproj.GenerateResource.Cache
+C:\Users\Юлия\source\repos\kub\kub\obj\Debug\kub.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\kub\kub\bin\Debug\kub.exe.config
+C:\Users\Юлия\source\repos\kub\kub\bin\Debug\kub.exe
+C:\Users\Юлия\source\repos\kub\kub\bin\Debug\kub.pdb
+C:\Users\Юлия\source\repos\kub\kub\obj\Debug\kub.exe
+C:\Users\Юлия\source\repos\kub\kub\obj\Debug\kub.pdb
+C:\Users\Юлия\Desktop\компьютерная графика\kub\kub\bin\Debug\kub.exe.config
+C:\Users\Юлия\Desktop\компьютерная графика\kub\kub\bin\Debug\kub.exe
+C:\Users\Юлия\Desktop\компьютерная графика\kub\kub\bin\Debug\kub.pdb
+C:\Users\Юлия\Desktop\компьютерная графика\kub\kub\obj\Debug\kub.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\Desktop\компьютерная графика\kub\kub\obj\Debug\kub.Form1.resources
+C:\Users\Юлия\Desktop\компьютерная графика\kub\kub\obj\Debug\kub.Properties.Resources.resources
+C:\Users\Юлия\Desktop\компьютерная графика\kub\kub\obj\Debug\kub.csproj.GenerateResource.cache
+C:\Users\Юлия\Desktop\компьютерная графика\kub\kub\obj\Debug\kub.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\компьютерная графика\kub\kub\obj\Debug\kub.exe
+C:\Users\Юлия\Desktop\компьютерная графика\kub\kub\obj\Debug\kub.pdb
